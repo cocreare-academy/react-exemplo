@@ -1,0 +1,31 @@
+
+.carrosel {
+    overflow-x: auto;
+    /* overflow-y: hidden; */
+    width: 100%;
+    min-height: 100px;
+    height: fit-content;
+}
+
+.carrosel-row {
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+    min-height: 100px;
+    height: fit-content;
+}
+
+
+.carrosel-line {
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+}
+
+.imagem {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    background-size: contain;
+    margin: 10px;
+}

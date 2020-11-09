@@ -1,0 +1,12 @@
+.header {
+    margin-left: 10px;
+    position: relative; 
+    min-height: 100px;
+    width: 100%;
+}
+
+.header div, .header button {
+    margin: 0 auto;
+    width: fit-content;
+}
+ 
